@@ -1,4 +1,4 @@
-Class Dog
+class Dog
   attr_accessor :name, :breed, :age
   @@all=[]
   def initialize(name=nil, breed=nil,age=nil)
